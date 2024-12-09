@@ -1,0 +1,13 @@
+{
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "filing_type": "10-K",
+    "filing_date": "2023-11-03",
+    "accession_number": "000032019323000106",
+    "file_number": "001-36743",
+    "primary_doc": "aapl-20230930.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000320193/000032019323000106/aapl-20230930.htm",
+    "size": 1558924,
+    "risk_factors_extracted": false,
+    "download_timestamp": "2024-11-28T14:50:08.026057"
+}

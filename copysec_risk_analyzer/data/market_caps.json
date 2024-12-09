@@ -1,0 +1,12 @@
+{
+  "last_updated": "2024-11-28T17:02:09.433446",
+  "companies": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "market_cap": 3551154667520,
+      "sector": "Technology",
+      "industry": "Consumer Electronics"
+    }
+  ]
+}

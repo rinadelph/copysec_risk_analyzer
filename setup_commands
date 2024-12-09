@@ -1,0 +1,4 @@
+mkdir -p copysec_risk_analyzer/data/{raw,processed}
+mkdir -p copysec_risk_analyzer/src/{collectors,processors,analyzers}
+mkdir -p copysec_risk_analyzer/config
+mkdir -p copysec_risk_analyzer/utils 
